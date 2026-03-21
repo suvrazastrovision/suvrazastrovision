@@ -10,5 +10,5 @@
 
 <p align="justify">I approach data analysis, modeling, and coding with a sense of curiosity and enjoyment, and I find it especially rewarding when my work can support others. I take pride in creating solutions that are both meaningful and accessible to a broader audience. I design scientific work with a user- and patient-centered focus, grounded in the principle that without real-world relevance and engagement, even the most rigorous research lacks purpose and translational impact.</p>
 
-<p align="justify">I also operate with a Zen-inspired mindset, valuing clarity, minimalism, and depth in both scientific inquiry and code. Beyond the screen & research, I am highly drawn to ether & mountains that keeps me calibrated—reminding me that perspective is as critical as precision.</p>
+<p align="justify">I also operate with a Zen-inspired mindset, valuing clarity, minimalism, and depth in both scientific inquiry and data analysis. Beyond the screen & research, I am highly drawn to ether & mountains that keeps me calibrated—reminding me that perspective is as critical as precision.</p>
 
