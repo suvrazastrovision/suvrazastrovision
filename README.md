@@ -1,15 +1,14 @@
-## Hey you, I am Suvra 😀
+## Hi there, I am Suvra 😀
 
 ![image alt](https://github.com/suvrazastrovision/suvrazastrovision/blob/5ead43ec90c44f54c9903f878600f78dc190a52d/dp.png)
 
 ## About Me
 
-<p align="justify">I am a NodeJS developer with 16 years of coding experience.</p>
+<p align="justify">I uncover how the brain and biology turn molecular signals into behavior, while actively exploring their translation into drug discovery. My work transforms neural and biological insight into data-driven predictive frameworks with potential therapeutic impact.</p>
 
-<p align="justify">I started in 2009 with HTML and CSS, making simple static web pages and expanding my knowledge over time. Around 2010/2011, I started to learn how to use JavaScript to create dynamic web apps. During this time I also learned a version of BASIC so I could program games for my 3DS using a DSi app called Petit Computer. In 2015 I found NodeJS and started using it to create some basic bots for various chat platforms.</p>
+<p align="justify">Currently I am working at the intersection of systems neuroscience, molecular biology, drug traget identification and machine learning, focusing on decoding complex neural states from high-dimensional data, driven by a commitment to advancing mental health. I investigate the paradox of the brain—an adaptive system that generates order while remaining inherently vulnerable to instability—and I approach this through NGS, integrateive & multimodal omics, and probabilistic modeling. I build reproducible pipelines and scalable analytical frameworks to translate biological complexity into actionable insights, particularly in precision medicine aiming towards neuropsychaitric/ neurodegenerative disorders. I am comfortable navigating stochastic systems, noisy datasets, and abstract models, and I actively seek meaningful signal within apparent chaos. I bring a analytical mindset to neuroscience and molecular biology, combining structured thinking with computational rigor.</p>
 
-<p align="justify">My goal with coding is primarily to have fun, but I also enjoy helping others if it aligns with that. I enjoy being able to create something that other people can use and enjoy as well. With public projects, the wants and/or needs of the userbase are always my priority, because without a supportive userbase, the product has no real purpose. I take criticism well, and use suggestions to improve the product.</p>
+<p align="justify">My goal with data anlysis, data modelling & coding is primarily to have fun, but I also enjoy helping others if it aligns with that. I enjoy being able to create something that other people can use and enjoy as well. I design scientific work with a user- and patient-centered focus, grounded in the principle that without real-world relevance and engagement, even the most rigorous research lacks purpose and translational impact.</p>
 
-<p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES11. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
+<p align="justify">I also operate with a Zen-inspired mindset, valuing clarity, minimalism, and depth in both scientific inquiry and code. Beyond the screen & research, I am highly drawn to ether & mountains that keeps me calibrated—reminding me that perspective is as critical as precision.</p>
 
-<p align="justify">Most recently I've been trying to get better at bash scripting, so I'm trying to find simple projects written in other languages that I can port to bash. My <a href="https://github.com/cheesits456/asciibots-bash">asciibots-bash</a> project is one example of this. I'm also working on learning how to make GUI applications, such as my <a href="https://github.com/cheesits456/RecipeBook">RecipeBook</a> application.</p>
