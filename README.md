@@ -1,6 +1,6 @@
 ## Hi there, I am Suvra!
 
-![image alt](https://github.com/suvrazastrovision/suvrazastrovision/blob/5ead43ec90c44f54c9903f878600f78dc190a52d/brain.jpeg)
+![image alt](https://github.com/suvrazastrovision/suvrazastrovision/blob/00de2816efbc1e915482e1e27a4eab0d921c673a/brain.jpeg)
 
 ## About Me
 
