@@ -14,5 +14,7 @@ Hi there, I’m Suvra!
 
 💪🏻 <strong>Specialisation:</strong> Computational Neuroscience, Multimodal Omics, Integrative Data Analysis, Predictive Modeling<br><br>
 
-📫 <strong>Contact:</strong> suvranath047@gmail.com
+📫 <strong>Contact:</strong> suvranath047@gmail.com  
+
+📑 <strong>Contact:</strong> Check my [personal page (coming soon...)](https://suvrazastrovision.github.io/)
 </p>
