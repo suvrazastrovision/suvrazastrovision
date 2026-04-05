@@ -6,13 +6,13 @@ Hi there 👋, I’m Suvra!
 </h1>
 
 <p>
-🎓 <strong>Education:</strong> PhD in Neuroscience<br><br>
+🎓 <strong>Education:</strong> PhD in Neuroscience, MS Biomechanical Engineering (Neural Tissue Engineering)<br><br>
 
 💼 <strong>Current Work:</strong> Senior Scientist & Bioinformatician at XXX<br><br>
 
 👩🏼‍🔬 <strong>Research Focus:</strong> I study how molecular and neural circuits shape brain function and behavior, building data-driven frameworks that translate biological complexity into actionable therapeutic insights.<br><br>
 
-💪🏻 <strong>Specialisation:</strong> Computational Neurotherapeutics · Multimodal Omics · Predictive Modeling<br><br>
+💪🏻 <strong>Specialisation:</strong> Computational Neuroscience, Multimodal Omics, Integrative Data Analysis, Predictive Modeling<br><br>
 
 📫 <strong>Contact:</strong> suvraindia@gmail.com
 </p>
