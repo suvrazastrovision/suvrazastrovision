@@ -6,7 +6,7 @@ Hi there 👋, I’m Suvra!
 </h1>
 
 <p>
-🎓 <strong>Education:</strong> PhD in Neuroscience, MS Biomechanical Engineering (Neural Tissue Engineering)<br><br>
+🎓 <strong>Education:</strong> PhD in Neuroscience <br><br>
 
 💼 <strong>Current Work:</strong> Senior Scientist & Bioinformatician at XXX<br><br>
 
