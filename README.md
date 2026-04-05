@@ -5,12 +5,14 @@ Hi there 👋, I’m Suvra!
 </a>
 </h1>
 
-<pre>
-🎓  Education        : PhD in Neuroscience
-💼  Current Work     : Senior Scientist & Bioinformatician at XXX
-👀  Research Focus   : I study how molecular and neural circuits shape brain function and behavior,
-                       building data-driven frameworks that translate biological complexity into
-                       actionable therapeutic insights.
-🌱  Specialisation   : Computational Neurocience, Multimodal Omics, Predictive Modeling, Integrative Data Analysis
-📫  Contact          : suvraindia@gmail.com
-</pre>
+<p>
+🎓 <strong>Education:</strong> PhD in Neuroscience<br><br>
+
+💼 <strong>Current Work:</strong> Senior Scientist & Bioinformatician at XXX<br><br>
+
+👩🏼‍🔬 <strong>Research Focus:</strong> I study how molecular and neural circuits shape brain function and behavior, building data-driven frameworks that translate biological complexity into actionable therapeutic insights.<br><br>
+
+💪🏻 <strong>Specialisation:</strong> Computational Neurotherapeutics · Multimodal Omics · Predictive Modeling<br><br>
+
+📫 <strong>Contact:</strong> suvraindia@gmail.com
+</p>
