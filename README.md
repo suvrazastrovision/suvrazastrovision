@@ -14,5 +14,5 @@ Hi there 👋, I’m Suvra!
 
 💪🏻 <strong>Specialisation:</strong> Computational Neuroscience, Multimodal Omics, Integrative Data Analysis, Predictive Modeling<br><br>
 
-📫 <strong>Contact:</strong> suvraindia@gmail.com
+📫 <strong>Contact:</strong> suvranath047@gmail.com
 </p>
