@@ -1,7 +1,7 @@
 <h1>
 Hi there 👋, I’m Suvra!
 <a href="https://www.linkedin.com/in/suvranath">
-    <img align="right" alt="linkedin" src="./assets/linkedin.svg">
+    <img align="right" alt="linkedin" src="./asset/linkedin.svg">
 </a>
   
 </h1>
