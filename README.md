@@ -10,7 +10,7 @@ Hi there 👋, I’m Suvra!
 
 💼&nbsp; Current work: Senior Scientist & Bioinformatician at XXX
 
-👀&nbsp; Research Focus: I study how molecular and neural sytens shape brain function and behavior, building data-driven frameworks that translate biological complexity into actionable therapeutic insights.
+👀&nbsp; Research Focus: I study how molecular and neural circuits shape brain function and behavior, building data-driven frameworks that translate &nbsp;&nbsp;&nbsp;&nbsp; biological complexity into actionable therapeutic insights.
 
 🌱&nbsp; Specialisation: Computational Neuroscience, Multimodal Omics, Predictive Modelling
 
