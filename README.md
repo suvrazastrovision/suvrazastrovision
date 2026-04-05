@@ -1,5 +1,5 @@
 <h1>
-Hi there 👋, I’m Suvra!
+Hi there, I’m Suvra!
 <a href="https://www.linkedin.com/in/suvranath">
   <img align="right" alt="linkedin" width="24" src="./asset/linkedin.svg">
 </a>
