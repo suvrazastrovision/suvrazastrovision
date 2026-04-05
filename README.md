@@ -12,5 +12,5 @@
 
 <p align="justify">I bring an analytical and structured mindset to neuroscience and molecular biology, grounded in computational rigor. I approach data analysis, modeling, and coding with curiosity and intention, and I value building solutions that are both impactful and accessible. My work is guided by a user- and patient-centered perspective, grounded in the belief that without real-world relevance, even the most rigorous research lacks purpose.</p>
 
-<p align="justify">I also operate with a Zen-inspired mindset, valuing clarity, minimalism, and depth in both scientific inquiry and data analysis. Beyond the screen & research, I am highly drawn to ether & mountains that keeps me calibrated—reminding me that perspective is as critical as precision.</p>
+<p align="justify">I also operate with a zen-inspired mindset, valuing clarity, minimalism, and depth in both scientific inquiry and data analysis. Beyond the screen & research, I am highly drawn to ether & mountains that keeps me calibrated—reminding me that perspective is as critical as precision.</p>
 
