@@ -8,13 +8,13 @@ Hi there, I’m Suvra!
 <p>
 🎓 <strong>Education:</strong> PhD in Neuroscience <br><br>
 
-💼 <strong>Current Work:</strong> Senior Scientist & Bioinformatician <br><br>
+💼 <strong>Current Work:</strong> Senior Scientist & Bioinformatician <br>
 
-👩🏼‍🔬 <strong>Research Focus:</strong> I study how molecular and neural circuits shape brain function and behavior, building data-driven predictive frameworks that translate biological complexity into actionable therapeutic insights.<br><br>
+👩🏼‍🔬 <strong>Research Focus:</strong> I study how molecular and neural circuits shape brain function and behavior, building data-driven predictive frameworks that translate biological complexity into actionable therapeutic insights.<br>
 
-💪🏻 <strong>Specialisation:</strong> Computational Neuroscience, Multimodal Omics, Integrative Data Analysis, Predictive Modeling<br><br>
+💪🏻 <strong>Specialisation:</strong> Computational Neuroscience, Multimodal Omics, Integrative Data Analysis, Predictive Modeling<br>
 
-📫 <strong>Contact:</strong> suvranath047@gmail.com<br><br> 
+📫 <strong>Contact:</strong> suvranath047@gmail.com<br>
 
 📑 <strong>Personal Webpage:</strong> [Under construction 🚧...](https://suvrazastrovision.github.io/)
 </p>
