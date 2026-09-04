@@ -12,7 +12,7 @@ Hi there, I’m Suvra!
 
 👩🏼‍🔬 <strong>Research Focus:</strong> I study how molecular and neural circuits shape brain function and behavior, building data-driven predictive frameworks that translate biological complexity into actionable therapeutic insights.<br>
 
-💪🏻 <strong>Specialisation:</strong> Computational Neuroscience, Multimodal Omics, Integrative Data Analysis, Predictive Modeling<br>
+💪🏻 <strong>Specialisation:</strong> Computational Neuroscience, Multimodal Omics, Integrative Data Analysis, Bioinformatics Data Engineering, Predictive Modeling<br>
 
 📫 <strong>Contact:</strong> suvranath047@gmail.com<br>
 
