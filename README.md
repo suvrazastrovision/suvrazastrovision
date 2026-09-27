@@ -8,7 +8,7 @@ Hi there, I’m Suvra!
 <p>
 🎓 <strong>Education:</strong> PhD in Neuroscience & Informatics <br>
 
-💼 <strong>Mission: To advance brain research and mental health </strong>  - <br>
+💼 <strong>Mission:</strong> To advance brain research and mental health <br>
 
 👩🏼‍🔬 <strong>Research Focus:</strong> I study how molecular and neural circuits shape brain function and behavior, building data-driven predictive frameworks that translate biological complexity into actionable therapeutic insights.<br>
 
