@@ -6,11 +6,11 @@ Hi there, I’m Suvra!
 </h1>
 
 <p>
-🎓 <strong>Education:</strong> PhD in Neuroscience & Informatics <br>
+🎓 <strong>Education:</strong> PhD in Neuroscience <br>
 
 🎯 <strong>Mission:</strong> To advance brain research and mental health <br>
 
-👩🏼‍🔬 <strong>Research Focus:</strong> I study how molecular and neural circuits shape brain function and behavior, building data-driven predictive frameworks that translate biological complexity into actionable therapeutic insights.<br>
+👩🏼‍🔬 <strong>Research Focus:</strong> I study how molecular and neural circuits shape brain function and behavior, building data-driven predictive frameworks that translate biological complexity into actionable therapeutic insights <br>
 
 💪🏻 <strong>Specialisation:</strong> Computational & Experimental Neuroscience, Multimodal Omics, Imaging, Integrative Data Analysis, Bioinformatics Data Engineering, Predictive Modeling<br>
 
