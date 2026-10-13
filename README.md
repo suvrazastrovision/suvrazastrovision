@@ -16,5 +16,5 @@ Hi, I’m Suvra!
 
 📫 <strong>Contact:</strong> suvranath047@gmail.com<br>
 
-📑 <strong>Personal Webpage:</strong> [Under construction 🚧...](www.suvranath.com)
+📑 <strong>Personal Webpage:</strong> [Under construction 🚧...](https://www.suvranath.com)
 </p>
