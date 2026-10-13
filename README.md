@@ -6,7 +6,7 @@ Hi, I’m Suvra!
 </h1>
 
 <p>
-🎓 <strong>Education:</strong> PhD in Neuroscience <br>
+🎓 <strong>Education:</strong> B.tech & MS in Biomed Engineering, PhD in Neuroscience <br>
 
 🎯 <strong>Mission:</strong> To advance brain research and mental health <br>
 
