@@ -8,9 +8,7 @@ Hi, I’m Suvra!
 <ul style="line-height: 1.8; margin-top: 0; margin-bottom: 0;">
   <li style="margin-bottom: 10px;"><strong>Education:</strong> B.Tech & MS in Biomedical Engineering, PhD in Neuroscience, MBA (STEM)</li>
 
-  <li style="margin-bottom: 10px;"><strong>Professional Profile:</strong> Computational Scientist advancing translational neuroscience and precision mental health through integrative multi-omics, imaging, and systems-level data science, with a focus on uncovering mechanisms that drive therapeutic discovery and patient impact</li>
-
-  <li style="margin-bottom: 10px;"><strong>Mission:</strong> To advance brain research and mental health by turning biological complexity into interpretable, actionable insights that accelerate discovery and improve patient outcomes</li>
+  <li style="margin-bottom: 10px;"><strong>Profile:</strong> Computational Scientist advancing translational neuroscience and precision mental health by turning biological complexity into interpretable, actionable insights that drive therapeutic discovery and improve patient outcomes through integrative multi-omics, imaging, and systems-level data science</li>
 
   <li style="margin-bottom: 10px;"><strong>Research Focus:</strong> I investigate how molecular and neural circuit dynamics shape brain function and behavior, developing data-driven predictive frameworks that bridge computational modeling, experimental neuroscience, and therapeutic innovation</li>
 
