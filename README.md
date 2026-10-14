@@ -5,16 +5,14 @@ Hi, I’m Suvra!
 </a>
 </h1>
 
-<ul>
-  <li><strong>🎓 Education:</strong> B.Tech & MS in Biomedical Engineering, PhD in Neuroscience, MBA (STEM)</li><br>
+<p><strong>🎓 Education:</strong> B.Tech & MS in Biomedical Engineering, PhD in Neuroscience, MBA (STEM)</p>
 
-  <li><strong>🎯 Mission:</strong> To advance brain research and mental health</li><br>
+<p><strong>🎯 Mission:</strong> To advance brain research and mental health</p>
 
-  <li><strong>🧠 Research Focus:</strong> I study how molecular and neural circuits shape brain function and behavior, building data-driven predictive frameworks that translate biological complexity into actionable therapeutic insights</li><br>
+<p><strong>🧠 Research Focus:</strong> I study how molecular and neural circuits shape brain function and behavior, building data-driven predictive frameworks that translate biological complexity into actionable therapeutic insights</p>
 
-  <li><strong>🔬 Specialisation:</strong> Computational & Experimental Neuroscience, Multimodal Omics, Imaging, Integrative Data Analysis, Bioinformatics Data Engineering, Predictive Modeling, AI-Engineering</li><br>
+<p><strong>🔬 Specialisation:</strong> Computational & Experimental Neuroscience, Multimodal Omics, Imaging, Integrative Data Analysis, Bioinformatics Data Engineering, Predictive Modeling, AI-Engineering</p>
 
-  <li><strong>📧 Contact:</strong> suvranath047@gmail.com</li><br>
+<p><strong>📧 Contact:</strong> suvranath047@gmail.com</p>
   
-  <li><strong>🌐 Personal Webpage:</strong> <a href="https://www.suvranath.com">Under construction...</a></li><br>
-</ul>
+<p><strong>🌐 Personal Webpage:</strong> <a href="https://www.suvranath.com">Under construction...</a></p>
