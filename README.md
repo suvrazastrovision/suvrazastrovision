@@ -15,4 +15,4 @@ Hi, I’m Suvra!
 
 <p><strong>📧 Contact:</strong> suvranath047@gmail.com</p>
   
-<p><strong>🌐 Personal Webpage:</strong> <a href="https://www.suvranath.com">Under construction...</a></p>
+<p><strong>🌐 Personal Webpage:</strong> <a href="https:/">Under construction...</a></p>
